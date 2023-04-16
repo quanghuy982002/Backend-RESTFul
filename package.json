@@ -1,0 +1,27 @@
+{
+  "name": "fullstack-backend-zero",
+  "version": "1.0.0",
+  "description": "learn full stack",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quanghuy982002/Backend-RESTFul.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "quanghuy98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quanghuy982002/Backend-RESTFul/issues"
+  },
+  "homepage": "https://github.com/quanghuy982002/Backend-RESTFul#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
